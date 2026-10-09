@@ -1,2 +1,2 @@
-# hernetiq-week3-s5-evidence-CloudTrail-log.json
+# Hernetiq-Week-3-Session-5-Evidence-CloudTrail-log.json
 https://github.com/aibinuoladamilola/hernetiq
